@@ -1,17 +1,26 @@
-# 💫 Hola soy Diseñador Gráfico
+# 💫  Hola soy Diseñador Gráfico, Ilustrador, 
 
 
-
+- 🎨 Actualmente estoy trabajando como Diseñador Gráfico en INDUSTRIAS RORI
+- 
 <!--Here are some ideas to get you started:
 
-- 🔭 Actualmente estoy trabajando en RORI
+- 🔭 Actualmente estoy trabajando como Diseñador Gráfico en INDUSTRIAS RORI
 🌱 Actualmente estoy aprendiendo...
 👯 Estoy buscando colaborar en...
 🤔 Estoy buscando ayuda con...
 💬 Pregúntame sobre...
 📫 Cómo contactarme:...
 😄 Pronombres:...
-⚡ Dato curioso:...-->
+⚡ Dato curioso:...
+💻 Soy un desarrollador web full stack
+🎨 Soy un diseñador de UI autodidacta
+📱Hago aplicaciones para Android y iOS
+🎓 Soy estudiante de Ciencias de la Computación (me graduaré en octubre de 2021)
+🌐 Puedes ver algunos de mis proyectos en mi portfolio
+📺 Hago tutoriales de desarrollo web y tecnología en YouTube
+
+-->
 
 
 
